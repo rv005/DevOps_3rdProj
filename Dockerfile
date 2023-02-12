@@ -1,4 +1,4 @@
-FROM  ubuntu:latest
+FROM  debian:latest
 MAINTAINER vikashashoke@gmail.com
 RUN yum install -y httpd \
  zip\
